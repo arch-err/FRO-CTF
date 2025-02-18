@@ -1,9 +1,30 @@
 general:
   ctf:
-    name: {{ .Env.CTF_NAME }}
-    description: |-
-      {{ .Env.CTF_DESCRIPTION }}
+    name: FRO-CTF
+    description: ""
     urls:
-      - {{ .Env.CTF_URL }}
+      - https://ctf.fro.se/
     repo:
-      URL: {{ .Env.REPO_URL }}
+      URL: git@github.com:arch-err/FRO-CTF.git
+challenges:
+  - name: Ping
+  - name: Strängar
+  - name: Grannar
+  - name: Dataöverflöd
+  - name: PwnedCorpo
+  - name: Gissa_Flaggan
+  - name: Crack_Me
+  - name: Central_hemsida
+  - name: Dinosauriernas_hemlighet
+  - name: Bakom_Kulisserna
+  - name: Farligt_program
+  - name: Utvecklingsmiljön
+  - name: Följa_recept
+  - name: Tomt
+  - name: Fun_with_flags
+  - name: Email
+  - name: Prickigt
+  - name: Snurrig
+  - name: Unik
+  - name: RSA
+  - name: Fyrkantigt
