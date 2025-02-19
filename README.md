@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (0/21)
+**Flags:** (4/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -25,9 +25,9 @@
 
 ## Web
 - [ ] [Ping](challenges/Ping)
-- [ ] [Dinosauriernas_hemlighet](challenges/Dinosauriernas_hemlighet)
-- [ ] [Central_hemsida](challenges/Central_hemsida)
-- [ ] [Bakom_Kulisserna](challenges/Bakom_Kulisserna)
+- [x] [Dinosauriernas_hemlighet](challenges/Dinosauriernas_hemlighet)
+- [x] [Central_hemsida](challenges/Central_hemsida)
+- [x] [Bakom_Kulisserna](challenges/Bakom_Kulisserna)
 
 ## Reverse Engineering
 - [ ] [Strängar](challenges/Strängar)
@@ -41,7 +41,7 @@
 ## Misc
 - [ ] [Dataöverflöd](challenges/Dataöverflöd)
 - [ ] [Farligt_program](challenges/Farligt_program)
-- [ ] [Utvecklingsmiljön](challenges/Utvecklingsmiljön)
+- [x] [Utvecklingsmiljön](challenges/Utvecklingsmiljön)
 - [ ] [Följa_recept](challenges/Följa_recept)
 
 ## Forensics
