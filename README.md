@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (4/21)
+**Flags:** (9/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -24,14 +24,14 @@
 # Challenges
 
 ## Web
-- [ ] [Ping](challenges/Ping)
+- [x] [Ping](challenges/Ping)
 - [x] [Dinosauriernas_hemlighet](challenges/Dinosauriernas_hemlighet)
 - [x] [Central_hemsida](challenges/Central_hemsida)
 - [x] [Bakom_Kulisserna](challenges/Bakom_Kulisserna)
 
 ## Reverse Engineering
-- [ ] [Strängar](challenges/Strängar)
-- [ ] [Gissa_Flaggan](challenges/Gissa_Flaggan)
+- [x] [Strängar](challenges/Strängar)
+- [x] [Gissa_Flaggan](challenges/Gissa_Flaggan)
 - [ ] [Crack_Me](challenges/Crack_Me)
 
 ## OSINT
@@ -39,8 +39,8 @@
 - [ ] [PwnedCorpo](challenges/PwnedCorpo)
 
 ## Misc
-- [ ] [Dataöverflöd](challenges/Dataöverflöd)
-- [ ] [Farligt_program](challenges/Farligt_program)
+- [x] [Dataöverflöd](challenges/Dataöverflöd)
+- [x] [Farligt_program](challenges/Farligt_program)
 - [x] [Utvecklingsmiljön](challenges/Utvecklingsmiljön)
 - [ ] [Följa_recept](challenges/Följa_recept)
 
