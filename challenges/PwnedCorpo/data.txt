@@ -1,0 +1,19 @@
+CEO LOGIN:TWVnYUJvbGFnQUJDRU8=
+CEO PASS:SsOkcsOkcmRlbmLDpHN0YWJvc3NlbnNvbWxldmVybnU=
+
+CTO LOGIN:TWVnYUJvbGFnQUJDVE8=
+CTO PASS:QW5kcm9pZMOkcmLDpHR0cmXDpG5hcHBsZQ==
+
+CSO LOGIN:TWVnYUJvbGFnQUJDU08=
+CSO PASS:ZnJve3B3bmVkX2bDtnJldGFnfSA=
+
+---
+
+CEO LOGIN: MegaBolagABCEO
+CEO PASS: Järärdenbästabossensomlevernu
+
+CTO LOGIN: MegaBolagABCTO
+CTO PASS: Androidärbättreänapple
+
+CSO LOGIN:  MegaBolagABCSO
+CSO PASS:  fro{pwned_företag}

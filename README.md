@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (16/21)
+**Flags:** (18/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -35,8 +35,8 @@
 - [x] [Crack_Me](challenges/Crack_Me)
 
 ## OSINT
-- [ ] [Grannar](challenges/Grannar)
-- [ ] [PwnedCorpo](challenges/PwnedCorpo)
+- [x] [Grannar](challenges/Grannar)
+- [x] [PwnedCorpo](challenges/PwnedCorpo)
 
 ## Misc
 - [x] [Dataöverflöd](challenges/Dataöverflöd)
