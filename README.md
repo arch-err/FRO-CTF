@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (9/21)
+**Flags:** (14/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -42,16 +42,16 @@
 - [x] [Dataöverflöd](challenges/Dataöverflöd)
 - [x] [Farligt_program](challenges/Farligt_program)
 - [x] [Utvecklingsmiljön](challenges/Utvecklingsmiljön)
-- [ ] [Följa_recept](challenges/Följa_recept)
+- [x] [Följa_recept](challenges/Följa_recept)
 
 ## Forensics
 - [ ] [Tomt](challenges/Tomt)
 - [ ] [Fun_with_flags](challenges/Fun_with_flags)
-- [ ] [Email](challenges/Email)
+- [x] [Email](challenges/Email)
 - [ ] [Prickigt](challenges/Prickigt)
 
 ## Cryptography
-- [ ] [Snurrig](challenges/Snurrig)
-- [ ] [Unik](challenges/Unik)
-- [ ] [RSA](challenges/RSA)
+- [x] [Snurrig](challenges/Snurrig)
+- [x] [Unikt](challenges/Unikt)
+- [x] [RSA](challenges/RSA)
 - [ ] [Fyrkantigt](challenges/Fyrkantigt)
