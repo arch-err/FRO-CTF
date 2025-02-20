@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (14/21)
+**Flags:** (16/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -32,7 +32,7 @@
 ## Reverse Engineering
 - [x] [Strängar](challenges/Strängar)
 - [x] [Gissa_Flaggan](challenges/Gissa_Flaggan)
-- [ ] [Crack_Me](challenges/Crack_Me)
+- [x] [Crack_Me](challenges/Crack_Me)
 
 ## OSINT
 - [ ] [Grannar](challenges/Grannar)
@@ -46,7 +46,7 @@
 
 ## Forensics
 - [ ] [Tomt](challenges/Tomt)
-- [ ] [Fun_with_flags](challenges/Fun_with_flags)
+- [x] [Fun_with_flags](challenges/Fun_with_flags)
 - [x] [Email](challenges/Email)
 - [ ] [Prickigt](challenges/Prickigt)
 
