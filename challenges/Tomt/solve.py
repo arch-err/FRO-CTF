@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
-with open("./message.txt", "rb") as f:
+with open("./original_files/message.txt", "rb") as f:
     message = f.read()
-print(message)
+# print(message)
 
 res = ""
 for i in message:

@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (18/21)
+**Flags:** (19/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -45,7 +45,7 @@
 - [x] [Följa_recept](challenges/Följa_recept)
 
 ## Forensics
-- [ ] [Tomt](challenges/Tomt)
+- [x] [Tomt](challenges/Tomt)
 - [x] [Fun_with_flags](challenges/Fun_with_flags)
 - [x] [Email](challenges/Email)
 - [ ] [Prickigt](challenges/Prickigt)
