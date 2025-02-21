@@ -15,7 +15,7 @@
 **Team:** None
 
 
-**Flags:** (20/21)
+**Flags:** (21/21)
 
 ![ ](assets/scoreboard.png)
 ![ ](assets/team-score.png)
@@ -54,4 +54,4 @@
 - [x] [Snurrig](challenges/Snurrig)
 - [x] [Unikt](challenges/Unikt)
 - [x] [RSA](challenges/RSA)
-- [ ] [Fyrkantigt](challenges/Fyrkantigt)
+- [x] [Fyrkantigt](challenges/Fyrkantigt)
